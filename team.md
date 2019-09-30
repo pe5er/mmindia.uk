@@ -1,3 +1,7 @@
+---
+title: Team
+---
+
 <hr class="featurette-divider">
 
         <div class="row featurette">
