@@ -2,6 +2,7 @@
 title: Team
 ---
 
+<div>
 <hr class="featurette-divider">
 
         <div class="row featurette">
@@ -52,7 +53,7 @@ Futhermore I am always set for a chess match :)</p>
           </div>
           <div class="col-md-5 order-md-1">
             <img class="featurette-image img-fluid mx-auto" src="https://gistcdn.githack.com/pe5er/f546a318a26623b273174ac6b09da5ef/raw/7d00af51561dfc0dc4c09e3dabe7119d640bacdc/jackie-avatar.svg" alt="Generic placeholder image">
-          </div>
-        </div>
-
-        <hr class="featurette-divider">
+		</div>
+	</div>
+<hr class="featurette-divider">
+</div>
